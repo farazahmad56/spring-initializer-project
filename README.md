@@ -1,2 +1,2 @@
 # spring-initializer-project
-Spring Project Blue Print
+Spring Project initializer to create new spring mvc 5 project quickly and easily. 
